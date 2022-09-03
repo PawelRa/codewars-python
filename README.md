@@ -1,0 +1,1 @@
+Krótkie pliki z ćwiczeniami do nauki podstaw + zadania z codewars
